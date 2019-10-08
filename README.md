@@ -4,9 +4,9 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 
 Use Keras if you need a deep learning library that:
 
--->Allows for easy and fast prototyping (through user friendliness, modularity, and extensibility).
--->Supports both convolutional networks and recurrent networks, as well as combinations of the two.
--->Runs seamlessly on CPU and GPU.
+    -->Allows for easy and fast prototyping (through user friendliness, modularity, and extensibility).
+    -->Supports both convolutional networks and recurrent networks, as well as combinations of the two.
+    -->Runs seamlessly on CPU and GPU.
 
 Keras is compatible with: Python 2.7-3.6.
 
